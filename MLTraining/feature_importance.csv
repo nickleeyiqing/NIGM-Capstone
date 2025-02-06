@@ -1,0 +1,11 @@
+Feature,Importance
+peak_distance_std,0.12218435279496793
+waveform_area,0.1212974855229723
+mean_peak_distance,0.11091603872584381
+ac_dc_ratio,0.10406391742188013
+peak_amplitude_std,0.10185608226681704
+peak_valley_ratio,0.09680407626010565
+perfusion_index,0.09329498728916785
+valley_amplitude_std,0.08626336103477214
+signal_skewness,0.08237640398949429
+signal_kurtosis,0.0809432946939788

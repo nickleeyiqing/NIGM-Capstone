@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">NIGM</string>
-    <string name="start_recording">Start Recording</string>
-    <string name="stop_recording">Stop Recording</string>
-    <string name="recording_ppg">Recording PPG Signal</string>
-</resources>
